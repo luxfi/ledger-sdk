@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="ledger-sdk" width="880"></p>
+
 # ledger-sdk
 
 _Golang SDK for Using the [Lux Ledger App](https://github.com/luxdefi/ledger-app)_
